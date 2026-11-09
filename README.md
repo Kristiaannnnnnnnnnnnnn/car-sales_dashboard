@@ -58,3 +58,8 @@ The Power BI file can be downloaded and opened in Microsoft Power BI Desktop to 
 ## Project Objective
 
 This project was created as a hands-on data analytics initiative to showcase practical skills in data preparation, data transformation, data modeling, DAX calculations, and interactive dashboard development using Power BI.
+
+
+## Dashboard Preview
+### Page 1 - Overview
+![Car Sales Dashboard Overview](power_bi2_0.png)
