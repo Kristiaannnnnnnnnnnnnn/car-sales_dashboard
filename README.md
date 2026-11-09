@@ -51,7 +51,7 @@ Presents detailed car sales information, allowing users to explore individual re
 
 ## Project File
 
-**File Name:** `Car_Sales_Dashboard_Final.pbix`
+**File Name:** `power bi2.0.pbix`
 
 The Power BI file can be downloaded and opened in Microsoft Power BI Desktop to explore the dashboard's interactive features and visual reports.
 
